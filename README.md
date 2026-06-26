@@ -80,8 +80,8 @@ Shreyash_Intern_Cotiviti_Submission/
 │   ├── architecture-flow.png
 │   ├── Shreyash_Intern_Cotiviti_Report.docx
 │   ├── Shreyash PolicyEngine POC Presentation.pptx
-│   ├── VIDEO_SCRIPT_FINAL.md
-│   └── DEMO_VIDEO_SCRIPT.md
+│
+│ 
 └── src/
     ├── extractor.py              # Layer 1: LLM extraction
     ├── evaluator.py              # Precision / recall / F1 + hallucination check
@@ -215,29 +215,10 @@ Panel 3 uses **illustrative test claims only**. They were constructed by hand to
 |-------------|----------|
 | Written report (Word, bibliography) | `docs/Shreyash_Intern_Cotiviti_Report.docx` |
 | PowerPoint presentation (7 slides) | `docs/Shreyash PolicyEngine POC Presentation.pptx` |
-| Demo video script (4–5 min) | `docs/VIDEO_SCRIPT_FINAL.md` |
+| Demo video script  | drive link -> `https://drive.google.com/drive/folders/17KXNhCQDQYyLJpNUWR4zVXf2_C3s0wnY?usp=sharing` |
 | POC source code | `src/`, `data/`, `requirements.txt` |
 | Architecture diagram | `docs/architecture-flow.png` |
 
----
-
-## Submission
-
-When ready to submit to Cotiviti:
-
-1. Push this repository to GitHub and grant reviewer access.
-2. Record the demo video per `docs/VIDEO_SCRIPT_FINAL.md` and add the `.mp4` to `docs/` if required.
-3. Send email:
-
-| Field | Value |
-|-------|-------|
-| **To** | jesus.hurtado@cotiviti.com |
-| **Subject** | `INTERN - Shreyash - [Your University Name]` |
-| **Body** | Links to the GitHub repository, written report, slides, and demo video |
-
-Replace `[Your University Name]` with your actual university before sending.
-
----
 
 ## License & disclaimer
 
