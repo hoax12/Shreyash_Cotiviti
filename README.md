@@ -1,4 +1,4 @@
-# PolicyEngine POC — Content Management in Health Care
+# PolicyEngine POC - Content Management in Health Care
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -215,7 +215,7 @@ Panel 3 uses **illustrative test claims only**. They were constructed by hand to
 |-------------|----------|
 | Written report (Word, bibliography) | `docs/Shreyash_Intern_Cotiviti_Report.docx` |
 | PowerPoint presentation (7 slides) | `docs/Shreyash PolicyEngine POC Presentation.pptx` |
-| Demo video script  | drive link -> `https://drive.google.com/drive/folders/17KXNhCQDQYyLJpNUWR4zVXf2_C3s0wnY?usp=sharing` |
+| Demo video script  | drive link -> (https://drive.google.com/drive/folders/17KXNhCQDQYyLJpNUWR4zVXf2_C3s0wnY?usp=sharing) |
 | POC source code | `src/`, `data/`, `requirements.txt` |
 | Architecture diagram | `docs/architecture-flow.png` |
 
