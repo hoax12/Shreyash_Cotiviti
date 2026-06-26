@@ -1,0 +1,8 @@
+CMS NCCI Policy Manual - Chapter I: General Correct Coding Policies
+Section C: Medical/Surgical Package
+
+Local anesthesia considered to be part of a surgical procedure includes local infiltration, tactile/topical anesthesia, regional digital blocks, and conscious sedation when provided by the practitioner performing the surgical procedure. 
+
+For example, if a physician performs a digital block to provide local anesthesia for a tenotomy of a toe (CPT code 28230), the digital block (CPT code 64450) is an integral component of the surgical procedure and is not separately reportable. Under the NCCI Procedure-to-Procedure (PTP) edit structure, code 28230 serves as the comprehensive Column 1 service, while code 64450 acts as the component Column 2 service. 
+
+Consequently, the Column 2 code (64450) will be denied if reported on the same date of service as the Column 1 code (28230) for the same anatomical location, unless a clinically appropriate NCCI-associated modifier (such as Modifier 59, XE, XS, XP, or XU) is appended to indicate a distinct, non-overlapping encounter or structure.
